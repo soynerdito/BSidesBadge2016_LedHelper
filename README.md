@@ -5,7 +5,7 @@ Simple Java application to help generating code to for led for matrix. Using a s
 
 Application used to create code to be used with badge firmware. Program output is written into the console.
 
-
+![alt tag](https://github.com/soynerdito/BSidesBadge2016_LedHelper/blob/master/app_screen.png)
 ## Motivation
 
 Wanted to have an app that facilitates the process of drawing stuff into the badge led matrix.
