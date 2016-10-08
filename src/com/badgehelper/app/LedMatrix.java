@@ -34,8 +34,10 @@ public class LedMatrix {
     }
 
     private void clearLedMatrix() {
-        for (int x = 0, y = 0; x < 8 && y < 8; x++, y++) {
-            mLedMatrix[y][x] = false;
+        for (int x = 0; x < 8; x++) {
+            for (int y = 0; y < 8; y++) {
+                mLedMatrix[y][x] = false;
+            }
         }
     }
 }
