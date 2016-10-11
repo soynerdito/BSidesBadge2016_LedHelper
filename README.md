@@ -14,6 +14,8 @@ Wanted to have an app that facilitates the process of drawing stuff into the bad
 
 Just compile with java, no extra libraries needed.
 
+## Contributors
+Joel Roman Sosa https://github.com/JRSosa
 
 ## License
 
